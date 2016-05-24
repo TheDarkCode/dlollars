@@ -1,4 +1,4 @@
-# dlollars
+# dlollars™
 The official currency of dryverless' cloud platform.
 
 ## License
